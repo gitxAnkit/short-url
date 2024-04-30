@@ -10,7 +10,7 @@ The Short-URL App is a simple URL shortening service built with Express.js and M
 
 ## Installation
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone git@github.com:gitxAnkit/short-url.git`
 2. Install dependencies: `npm install`
 3. Start the server: `npm start`
 
